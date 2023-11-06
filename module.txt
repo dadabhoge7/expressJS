@@ -1,0 +1,8 @@
+Third party Module :-
+1. ExpressJS 
+-------(const express = require('express');)
+--------const app = express();
+--------const port = 3000;
+--------app.listen(port,(error)=>{});
+MethodsInExpressJS
+--------app.get('/',(req,res)=>{});
