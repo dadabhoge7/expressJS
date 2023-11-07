@@ -4,7 +4,7 @@
   "description": "",
   "main": "01_app.js",
   "scripts": {
-    "dev": "nodemon 01_app.js"
+    "dev": "nodemon 01_userLogInPage.js"
   },
   "author": "Dada",
   "license": "ISC",
